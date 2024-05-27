@@ -6,4 +6,4 @@ Repositório de códigos Python com aplicações utilizadas na disciplina de Teo
 1. Otimização: o arquivo contém exemplos de mínimos e máximos, e multiplicador de lagrange. 
 2. Exemplos de maximização da utilidade
 3. Monopólio: exemplo numérico, determinação de preços e markup (Turma 2022 - Teoria Microeconômica - Noturno)
-4. Exemplos de Escolha Intertemporal (Turma 2023 - Teoria Microeconômica I)
+4. Exemplos de Escolha Intertemporal (Turma 2023/24 - Teoria Microeconômica I)
